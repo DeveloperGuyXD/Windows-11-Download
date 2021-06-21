@@ -1,7 +1,7 @@
 
 ### Windows 11
 
-** Microsoft pls don't delete me!
+Microsoft pls don't delete me!
 
 This is an article about Windows 11. See the Microsoft event on 24 june. Thank you for reading.\
 Apparently some ISOs of Windows 11 preview builds have been leaked.
